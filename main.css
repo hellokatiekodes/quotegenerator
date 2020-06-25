@@ -1,0 +1,28 @@
+.max-height {
+  min-height: 100vh;
+}
+body {
+  background: #f1dfd9;
+  font-family: 'Playfair Display',sans-serif; 
+}
+.quote-container {
+  background: rgba(255, 255, 255, 0.5);
+  font-family:'Playfair Display',sans-serif; 
+}
+#generate-btn {
+  font-family: 'Playfair Display',sans-serif; 
+  background: #593dfa !important;
+  border-color: #593dfa !important;
+  color: aliceblue;
+  cursor: pointer;
+  font-size: 2.5rem;
+  padding: 0.5rem 1rem;
+}
+#generate-btn:hover {
+  background: #afabf0 !important;
+  border-color: #b09e99 !important;
+  color: #3c2277 !important;
+}
+.author {
+  color:  #593dfa;
+}
